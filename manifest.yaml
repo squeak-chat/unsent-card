@@ -1,0 +1,17 @@
+version: 1
+name: Unsent Card
+description: A card with whatsapp message bubble
+author: Squeak-Team <admin@squeak.com>
+squeakUsername: squeak
+placeholder_title: To:
+repository:
+  url: https://github.com/squeak/unsent-card.git
+  version: main
+files:
+  html: source/index.html
+  css: source/styles.css
+  javascript: source/index.js
+parameters:
+  - name: text
+    type: text
+    placeholder:
