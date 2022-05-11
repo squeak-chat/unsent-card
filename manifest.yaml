@@ -6,7 +6,7 @@ squeakUsername: squeak
 placeholder_title: "To:"
 repository:
   url: https://github.com/squeak/unsent-card.git
-  version: main
+  version: master
 files:
   html: source/index.html
   css: source/styles.css
