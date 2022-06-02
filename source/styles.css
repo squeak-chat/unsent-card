@@ -67,6 +67,7 @@ body {
 }
 .msg__item--green .msg__item-content {
   background-color: #dcf8c6;
+  width: 250px;
   border-radius: 5px 0 5px 5px;
 }
 .msg__item--green .msg__item-content:before {
@@ -82,6 +83,7 @@ body {
 }
 .msg__item-content {
   position: relative;
+  width: 150px;
   max-width: 60%;
   display: inline-block;
   padding: 10px 10px 20px 10px;
