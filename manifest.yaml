@@ -13,5 +13,5 @@ files:
   javascript: source/index.js
 parameters:
   - name: text
-    type: text
+    type: textarea
     placeholder: Write a message to someone you don't have the courage to send
