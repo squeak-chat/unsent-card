@@ -4,8 +4,10 @@ description: A card with whatsapp message bubble
 author: Squeak-Team <admin@squeak.com>
 squeakUsername: squeak
 placeholder_title: "To:"
+icon: icon.png
+preview: preview.png
 repository:
-  url: https://github.com/squeak/unsent-card.git
+  url: https://github.com/squeak-chat/unsent-card.git
   version: master
 files:
   html: source/index.html
